@@ -1,1 +1,1 @@
-My resume: [resume.pdf](resume)
+My resume: [resume](resume.pdf)
